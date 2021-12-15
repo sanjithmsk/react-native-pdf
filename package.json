@@ -7,7 +7,7 @@
     "typings": "./index.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wonday/react-native-pdf.git"
+        "url": "git+https://github.com/sanjithmsk/react-native-pdf.git"
     },
     "keywords": [
         "react-component",
@@ -20,12 +20,12 @@
     ],
     "author": {
         "name": "Wonday",
-        "url": "https://github.com/wonday"
+        "url": "https://github.com/sanjithmsk"
     },
     "license": "MIT",
-    "homepage": "https://github.com/wonday/react-native-pdf",
+    "homepage": "https://github.com/sanjithmsk/react-native-pdf",
     "bugs": {
-        "url": "https://github.com/wonday/react-native-pdf/issues"
+        "url": "https://github.com/sanjithmsk/react-native-pdf/issues"
     },
     "dependencies": {
         "crypto-js": "^3.2.0"
